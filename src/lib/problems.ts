@@ -23,7 +23,7 @@ export const DIFF_INFO: Record<
   hard: {
     label: "HARD",
     sub: "OVERDRIVE",
-    points: 3,
+    points: 5,
     color: "#ff2bd1",
     accent: "rgba(255,43,209,",
     desc: "4桁演算 / 高難度の割り算 / 大きな素因数分解",
